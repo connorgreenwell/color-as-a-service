@@ -8,4 +8,4 @@ width/height: 1-1000
 
 Should return nothing if syntax is off, but maybe not!
 
-Only suppots PNGs right now. Probably forever. Because fuck JPEGs. They know what they did...
+Only suppots PNGs right now. Probably forever.
